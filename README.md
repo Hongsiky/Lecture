@@ -3,6 +3,13 @@
 
 ## 1. 코드 목록
 << 명령어 3형제 >>
+
+```
 git add .
 git commit -m "dfjewi"
 git push -u origin master
+```
+
+``` ruby
+puts "dfef"
+```
