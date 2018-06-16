@@ -6,13 +6,25 @@
 
 Typora로 작성한 내용이나 C9을 이용하여 만든 .rb파일 github에 올리는 방법!
 
-우선 git bash를 실행시키고 다음 세 명령어를 입력해준다.
+1. git bash를 실행시키고
+2. 올리려는 파일의 위치까지 들어간다.
+
+```
+cd project
+cd 2.Lecture
+```
+
+![1529113494317](C:\Users\student\AppData\Local\Temp\1529113494317.png)
+
+3. 다음 세 명령어를 입력해준다.
 
 ```
 git add .
-git commit -m "dfjewi"
+git commit -m "dfjewi" 		# "" 안에 코멘트 달아주면 알아보기 편함
 git push -u origin master
 ```
+
+![1529113593046](C:\Users\student\AppData\Local\Temp\1529113593046.png)
 
 
 
